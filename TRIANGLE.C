@@ -1,3 +1,4 @@
+//to determine whether a triangle is formed or not
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
