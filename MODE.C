@@ -1,3 +1,4 @@
+//value that occurred maximum number of times
 #include<stdio.h>
 #include<conio.h>
 #include<malloc.h>
